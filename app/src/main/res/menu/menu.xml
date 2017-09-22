@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/LinearVertical" android:title="LinearVertical"/>
+    <item android:id="@+id/LinearHorizontal" android:title="LinearHorizontal"/>
+    <item android:id="@+id/GridLayoutVertical" android:title="GridLayoutVertical"/>
+    <item android:id="@+id/GridLayoutHorizontal" android:title="GridLayoutHorizontal"/>
+    <item android:id="@+id/StaggeredVertical" android:title="StaggeredVertical"/>
+    <item android:id="@+id/StaggeredHorizontal" android:title="StaggeredHorizontal"/>
+
+</menu>
